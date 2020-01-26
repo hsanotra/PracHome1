@@ -8,6 +8,7 @@ package prachomegit;
 /**
  *
  * @author HONEY
+ My name is Honey Sanotra
  */
 public class PracHomeGit {
 
@@ -19,6 +20,8 @@ public class PracHomeGit {
         // TODO code application logic here
         System.out.println("My name is Honey");
         System.out.println(2+2);
+        System.out.println(2*2);
+        
         
     }
     
