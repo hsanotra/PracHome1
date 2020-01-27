@@ -23,7 +23,8 @@ public class PracHomeGit {
         System.out.println(2*2);
         // github
         
-     //kjhkhkhkjhkhk   kjhkjhkhkjhkjhkhjkjhkjhkjhkjhkjhkjhkjh//
+     //kjhkhkhkjhkhk   kjhkjhkhkjhkjhkhjkjhkjhkjhkjhkjhkjhkjh
+     knlkjlkjlkjlkjlk jlk jlk jlk jlk jlk jlk l lj//
     }
     
 }
